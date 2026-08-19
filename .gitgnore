@@ -1,0 +1,27 @@
+# Pasta de compilação do ModelSim
+work/
+msim/
+*.lib
+
+# Arquivos de log e transcrição
+transcript
+*.log
+*.db
+
+# Arquivos de formas de onda (Waveforms)
+*.wlf
+*.vcd
+*.vstf
+vsim.wlf
+
+# Arquivos temporários e de estado do ModelSim
+modelsim.ini
+*.mpas
+*.vco
+*.sl
+*.sva
+*.dbg
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
